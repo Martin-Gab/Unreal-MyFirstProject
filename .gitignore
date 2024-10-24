@@ -1,0 +1,15 @@
+# Unreal Engine specific ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vscode/
+
+# Ignore user-specific settings
+*.userprefs
+*.plist
